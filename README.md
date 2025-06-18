@@ -1,3 +1,3 @@
-# Ejemplo de uso para subir a amplify en aws
+# Ejemplo de uso para subir y usar el servicio de amplify en AWS
 
 
