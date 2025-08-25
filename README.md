@@ -78,9 +78,9 @@ amplify publish
 Una vez publicada, podrás acceder desde cualquier navegador al link generado por Amplify Console
 
 ## 📖 Documentación útil
-- [Documentación oficial de AWS Amplify] (https://docs.amplify.aws/)
-- [CLI de Amplify] (https://docs.amplify.aws/cli/)
-- [Hosting con Amplify] (https://docs.amplify.aws/hosting/)
+- [Documentación oficial de AWS Amplify](https://docs.amplify.aws/)
+- [CLI de Amplify](https://docs.amplify.aws/cli/)
+- [Hosting con Amplify](https://docs.amplify.aws/hosting/)
 
 ## 📜 Licencia
 MIT License – Ver LICENSE para detalles completos.
