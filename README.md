@@ -23,7 +23,7 @@ Proyecto de ejemplo para mostrar un flujo típico de:
 - npm o yarn.  
 - Amplify CLI instalado globalmente:
 ```bash
-Configura Amplify/credenciales AWS (ej.: amplify configure).
+npm install -g @aws-amplify/cli
 ```
 
 ## ✨ Flujo rápido — desplegar en Amplify (CLI)
